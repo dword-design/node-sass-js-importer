@@ -1473,7 +1473,6 @@ chardet@^0.7.0:
 
 chdir@dword-design/node-chdir#fork:
   version "0.0.0"
-  uid "55004473579e2b8d293ced5410af5948793971b6"
   resolved "https://codeload.github.com/dword-design/node-chdir/tar.gz/55004473579e2b8d293ced5410af5948793971b6"
 
 child-process-promise@^2.2.1:
@@ -1878,7 +1877,6 @@ delegates@^1.0.0:
 
 depcheck@dword-design/depcheck#fork:
   version "0.0.1"
-  uid "90b969810163e9b293fe3ee26b415ee25f2c0697"
   resolved "https://codeload.github.com/dword-design/depcheck/tar.gz/90b969810163e9b293fe3ee26b415ee25f2c0697"
   dependencies:
     "@babel/parser" "^7.6.4"
@@ -2549,7 +2547,6 @@ fsevents@^1.2.7:
   dependencies:
     bindings "^1.5.0"
     nan "^2.12.1"
-    node-pre-gyp "*"
 
 fsevents@~2.1.2:
   version "2.1.2"
@@ -3421,10 +3418,9 @@ jsonfile@^4.0.0:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-jsontosass@^0.1.1:
+jsontosass@dword-design/jsontosass:
   version "0.1.1"
-  resolved "https://registry.yarnpkg.com/jsontosass/-/jsontosass-0.1.1.tgz#c451876f0395f785fd38d2bcd4fd9e7e2b4e8cf1"
-  integrity sha1-xFGHbwOV94X9ONK81P2efitOjPE=
+  resolved "https://codeload.github.com/dword-design/jsontosass/tar.gz/df017d1dbe749a9132f28c9351cd5c4e0935316d"
   dependencies:
     extend "^3.0.0"
     repeat-string "^1.5.4"
