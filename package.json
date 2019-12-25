@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "jsontosass": "^0.1.1",
+    "jsontosass": "dword-design/jsontosass",
     "resolve-from": "^5.0.0"
   },
   "devDependencies": {
