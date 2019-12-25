@@ -30,6 +30,9 @@
     "output-files": "^1.1.10",
     "with-local-tmp-dir": "^2.2.4"
   },
-  "contributors": [],
+  "contributors": [
+    "dword-design (http://www.dword-design.de)",
+    "Renovate Bot (http://renovatebot.com)"
+  ],
   "maintainers": []
 }
