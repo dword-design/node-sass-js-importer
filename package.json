@@ -1,9 +1,7 @@
 {
   "name": "@dword-design/node-sass-importer",
   "version": "1.0.3",
-  "bugs": {
-    "url": "https://github.com/dword-design/node-sass-importer/issues"
-  },
+  "description": "",
   "repository": "dword-design/node-sass-importer",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
@@ -22,17 +20,12 @@
     "resolve-from": "^5.0.0"
   },
   "devDependencies": {
-    "@dword-design/base": "^3.7.0",
+    "@dword-design/base": "^4.0.0",
     "@dword-design/functions": "^2.2.4",
     "child-process-promise": "^2.2.1",
     "expect": "^24.9.0",
     "node-sass": "^4.13.0",
     "output-files": "^1.1.10",
     "with-local-tmp-dir": "^2.2.4"
-  },
-  "contributors": [
-    "dword-design (http://www.dword-design.de)",
-    "Renovate Bot (http://renovatebot.com)"
-  ],
-  "maintainers": []
+  }
 }
