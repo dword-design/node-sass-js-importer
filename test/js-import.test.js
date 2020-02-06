@@ -2,7 +2,6 @@ import { spawn } from 'child-process-promise'
 import withLocalTmpDir from 'with-local-tmp-dir'
 import outputFiles from 'output-files'
 import { endent } from '@dword-design/functions'
-import expect from 'expect'
 import { readFile } from 'fs-extra'
 import P from 'path'
 
