@@ -89,6 +89,26 @@ export default {
 
     `)
   }),
+  'local sass import': () => withLocalTmpDir(async () => {
+    await outputFiles({
+      src: {
+        'bar.scss': '$color: red',
+        'index.scss': endent`
+          @import 'bar';
+
+          body {
+            background: $color;
+          }
+        `,
+      },
+    })
+    await execa('node-sass', ['--output', 'dist', '--importer', require.resolve('.'), 'src'])
+    expect(await readFile(P.resolve('dist', 'index.css'), 'utf8')).toEqual(endent`
+      body {
+        background: red; }
+
+    `)
+  }),
   'js import': () => withLocalTmpDir(async () => {
     await outputFiles({
       'node_modules/bar/index.js': 'module.exports = { color: \'red\' }',
@@ -112,12 +132,12 @@ export default {
 
     `)
   }),
-  'local sass import': () => withLocalTmpDir(async () => {
+  'local js import': () => withLocalTmpDir(async () => {
     await outputFiles({
       src: {
-        'bar.scss': '$color: red',
+        'bar.js': 'module.exports = { color: \'red\' }',
         'index.scss': endent`
-          @import 'bar';
+          @import 'bar.js';
 
           body {
             background: $color;
