@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/dword-design/node-sass-importer/compare/v1.0.8...v1.0.9) (2020-03-13)
+
+
+### Bug Fixes
+
+* use tilde importer as fallback ([87aa3d9](https://github.com/dword-design/node-sass-importer/commit/87aa3d9fe178555c016ac7050f3c542926949348))
+
 ## [1.0.8](https://github.com/dword-design/node-sass-importer/compare/v1.0.7...v1.0.8) (2020-02-26)
 
 
