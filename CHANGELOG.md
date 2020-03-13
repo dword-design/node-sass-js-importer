@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dword-design/node-sass-js-importer/compare/v1.0.9...v1.1.0) (2020-03-13)
+
+
+### Features
+
+* only handle js files here ([cf6d583](https://github.com/dword-design/node-sass-js-importer/commit/cf6d583b1b943e2bbf8df0ece0ff15a419c2b8a3))
+
 ## [1.0.9](https://github.com/dword-design/node-sass-importer/compare/v1.0.8...v1.0.9) (2020-03-13)
 
 
