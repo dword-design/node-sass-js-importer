@@ -1,8 +1,8 @@
 {
-  "name": "@dword-design/node-sass-importer",
+  "name": "@dword-design/node-sass-js-importer",
   "version": "1.0.8",
   "description": "",
-  "repository": "dword-design/node-sass-importer",
+  "repository": "dword-design/node-sass-js-importer",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "main": "dist/index.js",
@@ -18,15 +18,14 @@
     "test": "base test"
   },
   "dependencies": {
-    "fs-extra": "^8.1.0",
     "jsontosass": "dword-design/jsontosass#fork",
-    "node-sass-tilde-importer": "^1.0.2",
     "resolve-from": "^5.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^6.0.0",
     "@dword-design/functions": "^2.2.4",
     "execa": "^4.0.0",
+    "fs-extra": "^8.1.0",
     "node-sass": "^4.13.0",
     "output-files": "^1.1.10",
     "with-local-tmp-dir": "^2.2.4"
