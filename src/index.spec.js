@@ -89,6 +89,31 @@ export default {
 
     `)
   }),
+  'contrib scss import without extension': () => withLocalTmpDir(async () => {
+    await outputFiles({
+      'node_modules/bar/foo.scss': '$color: red;',
+      'package.json': JSON.stringify({
+        dependencies: {
+          'bar': '^1.0.0',
+        },
+      }),
+      src: {
+        'index.scss': endent`
+          @import '~bar/foo';
+
+          body {
+            background: $color;
+          }
+        `,
+      },
+    })
+    await execa('node-sass', ['--output', 'dist', '--importer', require.resolve('.'), 'src'])
+    expect(await readFile(P.resolve('dist', 'index.css'), 'utf8')).toEqual(endent`
+      body {
+        background: red; }
+
+    `)
+  }),
   'local sass import': () => withLocalTmpDir(async () => {
     await outputFiles({
       src: {

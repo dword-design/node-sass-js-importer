@@ -20,6 +20,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "jsontosass": "dword-design/jsontosass#fork",
+    "node-sass-tilde-importer": "^1.0.2",
     "resolve-from": "^5.0.0"
   },
   "devDependencies": {
