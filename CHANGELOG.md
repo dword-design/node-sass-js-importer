@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.1...v1.1.2) (2020-03-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency fs-extra to v9 ([66221b3](https://github.com/dword-design/node-sass-js-importer/commit/66221b3ca907f69272d9c7717a40e886f8e07982))
+
 ## [1.1.1](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.0...v1.1.1) (2020-03-13)
 
 
