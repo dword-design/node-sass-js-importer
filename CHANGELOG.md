@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.4...v1.1.5) (2020-12-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency execa to v5 ([43314ef](https://github.com/dword-design/node-sass-js-importer/commit/43314efa25967b32be271342bb2fc3d4c7452d34))
+
 ## [1.1.4](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.3...v1.1.4) (2020-12-02)
 
 
