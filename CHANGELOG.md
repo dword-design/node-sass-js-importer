@@ -1,3 +1,11 @@
+## [1.1.9](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.8...v1.1.9) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#21](https://github.com/dword-design/node-sass-js-importer/issues/21)) ([f7d5044](https://github.com/dword-design/node-sass-js-importer/commit/f7d5044f85ada1b3797c225dc834f349ec509753))
+* lock file maintenance ([#22](https://github.com/dword-design/node-sass-js-importer/issues/22)) ([e00398d](https://github.com/dword-design/node-sass-js-importer/commit/e00398d338089a8943fc055ceaf4f7c2a47c8abb))
+
 ## [1.1.8](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.7...v1.1.8) (2021-03-09)
 
 
