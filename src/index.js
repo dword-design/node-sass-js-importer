@@ -15,5 +15,6 @@ export default (url, prev) => {
       }
     }
   }
+
   return null
 }
