@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.14...v1.1.15) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v3 ([#32](https://github.com/dword-design/node-sass-js-importer/issues/32)) ([cd74c7d](https://github.com/dword-design/node-sass-js-importer/commit/cd74c7dd4883df02fd36e49a038c4fa6de4b5acd))
+
 ## [1.1.14](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.13...v1.1.14) (2021-04-22)
 
 
