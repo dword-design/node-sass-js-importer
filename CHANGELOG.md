@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.16...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#38](https://github.com/dword-design/node-sass-js-importer/issues/38)) ([abb784b](https://github.com/dword-design/node-sass-js-importer/commit/abb784b19798f70c46a712b0ea69cdc5d582e7ca))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.1.16](https://github.com/dword-design/node-sass-js-importer/compare/v1.1.15...v1.1.16) (2021-04-28)
 
 
