@@ -19,7 +19,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "jsontosass": "dword-design/jsontosass#fork",
+    "jsontosass": "^0.2.0",
     "resolve-from": "^5.0.0"
   },
   "devDependencies": {
