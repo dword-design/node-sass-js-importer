@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/dword-design/node-sass-js-importer/compare/v2.0.5...v2.0.6) (2021-06-14)
+
+
+### Bug Fixes
+
+* use official jsontosass ([7fda309](https://github.com/dword-design/node-sass-js-importer/commit/7fda3091c2c18749bcfaba8e8f768d5d3f1ec29e))
+
 ## [2.0.5](https://github.com/dword-design/node-sass-js-importer/compare/v2.0.4...v2.0.5) (2021-06-14)
 
 
