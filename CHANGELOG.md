@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/node-sass-js-importer/compare/v2.0.7...v2.0.8) (2021-07-20)
+
+
+### Bug Fixes
+
+* update config files ([72c2877](https://github.com/dword-design/node-sass-js-importer/commit/72c28771529ce1dd5b4956da6b92765657dc3682))
+
 ## [2.0.7](https://github.com/dword-design/node-sass-js-importer/compare/v2.0.6...v2.0.7) (2021-07-06)
 
 
