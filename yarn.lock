@@ -6412,9 +6412,9 @@ jsonparse@^1.2.0, jsonparse@^1.3.1:
   integrity sha1-P02uSpH6wxX3EGL4UhzCOfE2YoA=
 
 jsontosass@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/jsontosass/-/jsontosass-0.2.0.tgz#5103a452065f71f1fd049cf2661a4bb22ae570f1"
-  integrity sha512-H3aTFM49Ix7REfSJvN6Oc9/mtniNygVmE/g3ioEafnjteh1RwgynqBo1T+gSyTRvI4kEu6nmUAVxp7V6wqpqaQ==
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/jsontosass/-/jsontosass-0.2.2.tgz#cd4facb8031335b1b4412c3ecfdf1cd77df1db60"
+  integrity sha512-cX4TT5L2ZJBlmR5TFJ0Bzdu7B76+ibP43sCHYAk50uB6dnHw4Mf6PDvEr3Z+vNTgTEOhfEuorlhjbimkLzYlvA==
   dependencies:
     extend "^3.0.0"
     param-case "^3.0.3"
@@ -9710,10 +9710,15 @@ tslib@^1.8.1, tslib@^1.9.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tslib@^2, tslib@^2.0.3:
+tslib@^2:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
+
+tslib@^2.0.3:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.5.0.tgz#42bfed86f5787aeb41d031866c8f402429e0fddf"
+  integrity sha512-336iVw3rtn2BUK7ORdIAHTyxHGRIHVReokCR3XjbckJMK7ms8FysBfhLR8IXnAgy7T0PTPNBWKiH514FOW/WSg==
 
 tsutils@^3.21.0:
   version "3.21.0"
