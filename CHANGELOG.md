@@ -1,3 +1,11 @@
+## [2.0.9](https://github.com/dword-design/node-sass-js-importer/compare/v2.0.8...v2.0.9) (2023-04-17)
+
+
+### Bug Fixes
+
+* update dependency fs-extra to v10.1.0 ([a99ad6e](https://github.com/dword-design/node-sass-js-importer/commit/a99ad6e6ba87d2d2b9873bdd53561f167a496a40))
+* update dependency with-local-tmp-dir to v4.1.0 ([59ad5a7](https://github.com/dword-design/node-sass-js-importer/commit/59ad5a74f099d97eb1bcb155a9fe271ca8ae31d8))
+
 ## [2.0.8](https://github.com/dword-design/node-sass-js-importer/compare/v2.0.7...v2.0.8) (2021-07-20)
 
 
